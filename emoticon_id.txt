@@ -1,3 +1,4 @@
+emoticon : nilai
 ^^v : 4
 ^_^ : 4
 xp : -4
