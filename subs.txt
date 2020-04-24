@@ -1,9 +1,11 @@
 asli	ganti
 adiil	adil
 aiib	aib
+bngung bingung
 ga	tidak
 gak	tidak
 gk	tidak
+jgn jangan
 krg	kurang
 mlng	malang
 mls	malas
